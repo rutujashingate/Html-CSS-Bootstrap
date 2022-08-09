@@ -1,0 +1,41 @@
+.border{
+    border: 2px black;
+}
+
+body{
+    background-color:#282828;
+    color:white;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.image1{
+    width: 60vw;
+
+}
+
+.btn{
+    
+    color:palevioletred;
+    border-radius: 50px;
+    border-radius: 2px solid;
+    
+}
+
+.btn:hover{
+    background-color: papayawhip;
+    color: black;
+}
+
+.card{
+    background-color: #444243;
+}
+
+.mail{
+    width: 250px;
+    border-radius: 50px;
+}
+
+.footer
+{
+    background-color: #444243;
+}
